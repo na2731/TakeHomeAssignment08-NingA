@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Youtube</string>
+    <string name="Description1">Jimmy Kimmel Live</string>
+    <string name="Description2">TheEllenShow</string>
+    <string name="Description3">The Tonight Show Starring Jim</string>
+    <string name="View1">35 views</string>
+    <string name="View2">40 views</string>
+    <string name="View3">175 views</string>
+    <string name="View4">47 views</string>
+    <string name="View5">98 views</string>
+    <string name="View6">22 views</string>
+    <string name="Topic1">Ellen/s Tribute to the Obamas</string>
+    <string name="Topic2">Ice Cube Says Nice Things Angrily</string>
+    <string name="Topic3">Donald Trump Interviews Himself In the Mirror</string>
+    <string name="Topic4">Celebrities Read Mean Tweets #9</string>
+    <string name="Topic5">Mean Tweets Live</string>
+    <string name="Topic6">Mean Tweets-Music Edition#2</string>
+
+
+</resources>
